@@ -2402,7 +2402,7 @@
 	(footprint ".pretty:Speaker_TH"
 		(layer "F.Cu")
 		(uuid "a2b31464-3c4c-4b1d-863a-49accc3d8e42")
-		(at 153.95 75.24)
+		(at 135 137.31)
 		(property "Reference" "LS2"
 			(at -0.01 -0.73 0)
 			(unlocked yes)
@@ -2459,7 +2459,7 @@
 		(attr smd)
 		(fp_circle
 			(center 0 0)
-			(end 23 0)
+			(end 11.5 0)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -2470,7 +2470,7 @@
 		)
 		(fp_circle
 			(center 0 0)
-			(end 23.5 0)
+			(end 12 0)
 			(stroke
 				(width 0.1)
 				(type solid)
