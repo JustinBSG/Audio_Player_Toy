@@ -1,4 +1,4 @@
-26435152934412804
+26436927975196387
 .pretty
 BAT-SMD_BH-AAA-B5AA005
 
@@ -35,12 +35,19 @@ SW_MX1A-11NN
 2
 2
 .pretty
-Speaker
+Speaker_SMD
 
 
 0
 2
 2
+.pretty
+Speaker_TH
+
+
+0
+1
+1
 .pretty
 TQFN-32_L5.0-W5.0-P0.50-BL-EP3.5
 
