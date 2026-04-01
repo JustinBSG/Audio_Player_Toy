@@ -1,0 +1,3 @@
+[submodule "hardware/pcb/kiswitch"]
+	path = hardware/pcb/kiswitch
+	url = https://github.com/kiswitch/kiswitch.git
