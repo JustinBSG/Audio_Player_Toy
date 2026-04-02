@@ -562,6 +562,12 @@
         },
         {
           "group_by": false,
+          "label": "Manufactor",
+          "name": "Manufactor",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Component",
           "name": "Component",
           "show": true
@@ -702,6 +708,12 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SNAPEDA_PN",
+          "name": "SNAPEDA_PN",
           "show": false
         }
       ],
