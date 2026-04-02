@@ -4396,7 +4396,8 @@
 	)
 	(symbol
 		(lib_id "EEEFK1A221V:EEEFK1A221V")
-		(at 78.74 27.94 270)
+		(at 78.74 27.94 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4404,7 +4405,7 @@
 		(dnp no)
 		(uuid "2b2bf65a-0377-4755-b24e-f0345589b1b0")
 		(property "Reference" "C1"
-			(at 82.804 28.956 90)
+			(at 74.676 28.956 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4413,7 +4414,7 @@
 			)
 		)
 		(property "Value" "EEEFK1A221V"
-			(at 82.804 31.496 90)
+			(at 74.676 31.496 90)
 			(effects
 				(font
 					(size 1.27 1.27)
