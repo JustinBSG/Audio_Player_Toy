@@ -4,4 +4,6 @@
   (lib (name "BLM18EG601SN1D")(type "KiCad")(uri "F:/OneDrive/Documents/side_project/Audio_Player_Toy/hardware/pcb/BLM18EG601SN1D.kicad_sym")(options "")(descr ""))
   (lib (name "EEEFK1A221V")(type "KiCad")(uri "F:/OneDrive/Documents/side_project/Audio_Player_Toy/hardware/pcb/EEEFK1A221V.kicad_sym")(options "")(descr ""))
   (lib (name "MX1A-11NN")(type "KiCad")(uri "F:/OneDrive/Documents/side_project/Audio_Player_Toy/hardware/pcb/MX1A-11NN.kicad_sym")(options "")(descr ""))
+  (lib (name "TAJA226M010RNJ")(type "KiCad")(uri "F:/OneDrive/Documents/side_project/Audio_Player_Toy/hardware/pcb/TAJA226M010RNJ.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "F:/OneDrive/Documents/side_project/Audio_Player_Toy/hardware/pcb/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
 )
