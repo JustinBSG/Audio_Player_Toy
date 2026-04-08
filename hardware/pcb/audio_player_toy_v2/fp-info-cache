@@ -1,4 +1,4 @@
-26436928035151996
+26447582307058401
 .pretty
 BAT-SMD_BH-AAA-B5AA005
 
@@ -7,12 +7,40 @@ BAT-SMD_BH-AAA-B5AA005
 7
 6
 .pretty
+BEADC1608X95N
+
+
+0
+2
+2
+.pretty
+CAPMP3216X180N
+<b>TANTALUM CAPACITOR</b>
+
+0
+2
+2
+.pretty
 CAP_EEEFK1A221V
 
 
 0
 2
 2
+.pretty
+CASE-A_3216
+
+
+0
+2
+2
+.pretty
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
 .pretty
 SOD-323_L1.8-W1.3-LS2.5-FD
 
@@ -55,6 +83,20 @@ TQFN-32_L5.0-W5.0-P0.50-BL-EP3.5
 0
 33
 33
+.pretty
+USB-C-SMD_TYPE-C-6PIN-2MD-073
+
+
+0
+18
+14
+.pretty
+USB-C_SMD-TYPE-C-31-M-12_1
+
+
+0
+18
+16
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
