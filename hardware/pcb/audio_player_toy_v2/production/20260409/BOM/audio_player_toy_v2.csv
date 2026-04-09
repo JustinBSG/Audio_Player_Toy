@@ -1,5 +1,5 @@
 "Reference","Qty","Value","Detail","Manufactor","Component","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"C1","1","10uF","+-10%, 16V, X5R","MuRata","    GRM188R61C106KAALD","","","","Resistor_SMD:R_0603_1608Metric","~"
+"C1","1","10uF","+-10%, 16V, X5R","MuRata","GRM188R61C106KAALD","","","","Resistor_SMD:R_0603_1608Metric","~"
 "C2","1","TAJA226M010RNJ","","","","","","",".pretty:CAPMP3216X180N",""
 "C3","1","0.1uF","+-10%, 16V, X7R","MuRata","GCJ188R71C104KA01D","","","","Resistor_SMD:R_0603_1608Metric","~"
 "FL1","1","BLM18PG601SN1","","","","","","",".pretty:BEADC1608X95N",""

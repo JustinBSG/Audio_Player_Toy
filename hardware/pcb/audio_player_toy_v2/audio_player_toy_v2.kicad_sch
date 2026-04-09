@@ -4619,7 +4619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Component" "    GRM188R61C106KAALD"
+		(property "Component" "GRM188R61C106KAALD"
 			(at 55.88 34.29 0)
 			(effects
 				(font
