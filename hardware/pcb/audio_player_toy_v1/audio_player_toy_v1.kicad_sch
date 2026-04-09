@@ -4515,7 +4515,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor" ""
+		(property "Manufactor" "Yageo"
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "RC0603FR-0710KL"
+			(at 63.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Detail" "+-1%, 100mW"
 			(at 63.5 55.88 0)
 			(effects
 				(font

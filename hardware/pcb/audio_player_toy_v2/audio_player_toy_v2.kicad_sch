@@ -3937,7 +3937,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor" ""
+		(property "Manufactor" "Yageo"
+			(at 142.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "RC0603FR-075K1L"
+			(at 142.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Detail" "+-1%, 100mW"
 			(at 142.24 102.87 0)
 			(effects
 				(font
@@ -4016,7 +4034,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor" ""
+		(property "Manufactor" "MuRata"
+			(at 69.85 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "GCJ188R71C104KA01D"
+			(at 69.85 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Detail" "+-10%, 16V, X7R"
 			(at 69.85 34.29 0)
 			(effects
 				(font
@@ -4574,7 +4610,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor" ""
+		(property "Manufactor" "MuRata"
+			(at 55.88 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "    GRM188R61C106KAALD"
+			(at 55.88 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Detail" "+-10%, 16V, X5R"
 			(at 55.88 34.29 0)
 			(effects
 				(font
@@ -4717,7 +4771,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor" ""
+		(property "Manufactor" "Yageo"
+			(at 92.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "RC0603FR-075K1L"
+			(at 92.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Detail" "+-1%, 100mW"
 			(at 92.71 95.25 0)
 			(effects
 				(font
@@ -5391,7 +5463,25 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor" ""
+		(property "Manufactor" "Yageo"
+			(at 59.69 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Component" "RC0603FR-0710KL"
+			(at 59.69 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Detail" "+-1%, 100mW"
 			(at 59.69 72.39 0)
 			(effects
 				(font
