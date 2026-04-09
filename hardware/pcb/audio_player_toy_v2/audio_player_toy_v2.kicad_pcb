@@ -4055,11 +4055,11 @@
 	(dimension
 		(type orthogonal)
 		(layer "Cmts.User")
-		(uuid "cfee81d2-fd92-418c-be78-fc2e465e5360")
+		(uuid "71fbcec7-3c9c-475d-b19b-2d7f0b23c692")
 		(pts
-			(xy 100 149.035) (xy 100 94.035)
+			(xy 130 94.035) (xy 130 149.035)
 		)
-		(height -9.055)
+		(height 10.81)
 		(orientation 1)
 		(format
 			(prefix "")
@@ -4079,9 +4079,9 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "55"
-			(at 89.795 121.535 90)
+			(at 139.66 121.535 90)
 			(layer "Cmts.User")
-			(uuid "cfee81d2-fd92-418c-be78-fc2e465e5360")
+			(uuid "71fbcec7-3c9c-475d-b19b-2d7f0b23c692")
 			(effects
 				(font
 					(size 1 1)
